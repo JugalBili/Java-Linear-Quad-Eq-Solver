@@ -1,0 +1,11 @@
+
+*.class
+
+# Unnecessary Folders #
+build/
+nbproject/
+
+# Package Files #
+*.jar
+*.war
+*.ear

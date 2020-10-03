@@ -1,0 +1,24 @@
+Now that you found all information about your quadratic graph,
+its time to understand how to interpretate the actal equation. 
+For this example we will be using the equation: y = 2(x-3)^2-4.
+
+To find the coordinates for this equation we will be using mapping
+notation. The mapping notation for this example is: (x+3, 2y-4). 
+From this, we use the 5 basic quadratic coordinates and substitue them in
+to find the new equations coordinates. 
+(-2,4) (-1,1) (0,0) (1,1) (2,4) becomes (1,4) (2,-2) (3,-4) (2,-2) (5,4)
+
+The vertex of quadratic equaion is simple to find if it is in vertex from. 
+It is simply just the opposite of the h value and the k value. In this
+example h = -3 & k = -4, therefore the vertex is (3,-4).
+
+The next step is to find the intercepts. For the y-intercept, you would 
+need to substitite x as 0 and solve for y. In this case the y-intercept
+is at (0,14) 
+To find the x-intercepts, you would need to substitute y as 0, and solve
+for x, and then use the qudratic formula, since there are at max 2 possibilities.
+
+From this information, you are able to solve many quadratic word problems, 
+and reading this lesson would hopefully prepare you for the test.
+
+Thank you for using this program! 

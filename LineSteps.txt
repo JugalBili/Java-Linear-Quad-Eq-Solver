@@ -1,0 +1,28 @@
+Now that you found all information about your Linear graph,
+its time to understand how to interpretate the actal equation. 
+Remember to convert your equation into slope/y-intercept 
+form before following this lesson. 
+For this example we will be using the equation: y = 2x-4.
+
+To find the coordinates for this equation we will be 
+substituting the x coordinate as x, and solving for y. 
+For example if you want to find the coordinate at x = 3
+you can solve by substituting 3 as x and solving for y.
+In this example the coordinate is (3,2).
+
+The slope of the linear equation is is how much the line rises
+ever unit, and it can be calculated by rise/run or if you have 
+2 coordinates; (y2-y1)/(x2-x1). The slope is also represented
+by the 'm' value, which in this case is 2. 
+
+The next step is to find the intercepts. For the y-intercept, you would 
+need to substitite x as 0 and solve for y. In this case the y-intercept
+is at (0,-4), or you can simply look at the 'b' value which is the 
+y-intercept. 
+To find the x-intercepts, you would need to substitute y as 0, and solve
+for x. In this case the point of the x-intercept is (2,0). 
+
+From this information, you are able to solve many linear word problems, 
+and reading this lesson would hopefully prepare you for the test.
+
+Thank you for using this program! 
