@@ -3,6 +3,9 @@
 ## Sections 
 - [Description](#description)
 - [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Installing](#installing)
+    - [Executing](#executing)
 - [Author](#author)
 - [License](#license)
 
@@ -44,9 +47,10 @@ java U4_A3_Implementation.java
 
 ---
 ## Author 
-Jugal Bilimoria
+**Jugal Bilimoria**
 <br />August 20th 2018
-<br />For a grade 11 online Computer Science class final project 
+
+<br />Project was made as a grade 11 online Computer Science class final project. 
 
 ---
 ## License 
